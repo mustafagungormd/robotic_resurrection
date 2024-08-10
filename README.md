@@ -39,10 +39,11 @@ Players will guide Bolt through the desert filled with challenges and obstacles.
 - Casual Gamers: The easy-to-pick-up gameplay and charming characters attract those looking for a lighthearted and enjoyable experience.
 
 ## Links
+- [Download Game on itch.io](https://tutogamesrr.itch.io/robotic-resurrection)
+- [Watch Trailer on Youtube](https://www.youtube.com/watch?v=O2-kPlbwwa4)
+- [Listen OST Album on Youtube](https://www.youtube.com/watch?v=NIsI34rYfp8)
+- [Used Assets](https://docs.google.com/document/d/1xz2rqYyFN4JcZB2ymjXu9eHQWj5EaFOzQhHTwpgjlgY/edit?usp=sharing)
 - [Game Design Document](https://docs.google.com/document/d/1lFQCjJ4gcxiS0oczOODph1Gs79YmVYuU9dlZmdvwNWE/edit?usp=sharing)
-- [Assets](https://docs.google.com/document/d/1xz2rqYyFN4JcZB2ymjXu9eHQWj5EaFOzQhHTwpgjlgY/edit?usp=sharing)
-- [itch.io](https://tutogamesrr.itch.io/robotic-resurrection)
-- [Youtube](https://www.youtube.com/watch?v=yAUpAvV_fxQ)
 
 ---
 # **SPRINT 1**
