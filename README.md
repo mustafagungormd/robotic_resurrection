@@ -332,9 +332,10 @@ Sprint Review participants: Mustafa Said Güngör, Özlem Arslan, Öykü Beliz �
    |:---------------------------------:|
    | Platforms & Enemies               |
   
-* Music and Sound for the game and gameplay video are created.
+* [Original Soundtrack Album](https://www.youtube.com/watch?v=NIsI34rYfp8) of the game is created.
 
- [Soundtrack](https://docs.google.com/spreadsheets/d/1Xb7Odh1mkbk4Q24qc-OhqtXm6COfsqmkUL-qmjPVKrY/edit?usp=sharing)
+* [Gameplay video](https://www.youtube.com/watch?v=UGbRifKZAlM) of the game is created.
+
 
 
  ### **Sprint Review**
