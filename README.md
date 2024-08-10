@@ -42,8 +42,8 @@ Players will guide Bolt through the desert filled with challenges and obstacles.
 - [Download Game on itch.io](https://tutogamesrr.itch.io/robotic-resurrection)
 - [Watch Trailer on Youtube](https://www.youtube.com/watch?v=O2-kPlbwwa4)
 - [Listen OST Album on Youtube](https://www.youtube.com/watch?v=NIsI34rYfp8)
-- [Used Assets](https://docs.google.com/document/d/1xz2rqYyFN4JcZB2ymjXu9eHQWj5EaFOzQhHTwpgjlgY/edit?usp=sharing)
 - [Game Design Document](https://docs.google.com/document/d/1lFQCjJ4gcxiS0oczOODph1Gs79YmVYuU9dlZmdvwNWE/edit?usp=sharing)
+- [Used Assets](https://docs.google.com/document/d/1xz2rqYyFN4JcZB2ymjXu9eHQWj5EaFOzQhHTwpgjlgY/edit?usp=sharing)
 
 ---
 # **SPRINT 1**
