@@ -206,7 +206,7 @@ Sprint Review participants: Mustafa Said Güngör, Özlem Arslan, Öykü Beliz �
 
 * Final map sketch was created.
 
-   | ![minimap](images/image-26.jpeg) |
+   | ![minimap](images/image-26.png) |
    |:---------------------------------:|
    | Final Map Sketch                        |
 
@@ -305,11 +305,11 @@ Sprint Review participants: Mustafa Said Güngör, Özlem Arslan, Öykü Beliz �
 
 * Daily scrum was held via WhatsApp and Discord. Discord meeting notes can be found on Trello as cards in the "Meeting Logs" list.
 
-   | ![WP1](images/image-34.jpg) |
+   | ![WP1](images/image-34.png) |
    |:---------------------------------:|
    | WhatsApp meeting logs                        |
 
-   | ![DC](images/image-35.jpeg) |
+   | ![DC](images/image-35.png) |
    |:---------------------------------:|
    | Discord meeting logs                        |
 
