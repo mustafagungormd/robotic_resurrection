@@ -212,7 +212,7 @@ Sprint Review participants: Mustafa Said Güngör, Özlem Arslan, Öykü Beliz �
 
 * Cinematic footage is revised. Previous cinematic photos are replaced with animations.
 
-   | ![anim](images/image-27b.gif) | 
+   | ![anim](images/image-27.gif) | 
    |:---------------------------------:|
    | Cinematic footage for the beginning is created                       |
 
